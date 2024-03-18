@@ -106,6 +106,7 @@ section {
     padding: 24px 0;
 }
 
+
 .nav-styles-link:hover,
 .nav-styles-link:focus {
     color: #404bbf;
@@ -115,6 +116,9 @@ section {
     color: #404bbf;
 }
 
+.nav-styles-link-studio {
+   color: #404bbf;
+}
 
 .footer-studio {
     color: #f4f4fd;
